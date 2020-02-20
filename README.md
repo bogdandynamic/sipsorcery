@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/sipsorcery/sipsorcery) 
+
 | Target        | SIPSorcery    | Examples     | Softphone |
 | --------------| ------------- |:-------------|:--------- |
 | net452        | [![Build status](https://ci.appveyor.com/api/projects/status/1prvhq7jyw0s5fb1/branch/master?svg=true)](https://ci.appveyor.com/project/sipsorcery/sipsorcery/branch/master) | | |
